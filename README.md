@@ -6,7 +6,7 @@
 
 用 Go 构建服务，用自动化连接工作流。
 
-[FanAPI](https://github.com/Fansky123/FanAPI) · [QQ Codex Worker](https://github.com/Fansky123/qqbot) · [全部公开项目](https://github.com/Fansky123?tab=repositories&type=public)
+[MIDCODE / FanAPI](https://github.com/Fansky123/FanAPI) · [QQ Codex Worker](https://github.com/Fansky123/qqbot) · [全部公开项目](https://github.com/Fansky123?tab=repositories&type=public)
 
 </div>
 
@@ -22,11 +22,13 @@
 
 ## 代表项目
 
-### 01 / [FanAPI](https://github.com/Fansky123/FanAPI)
+### 01 / [MIDCODE / FanAPI](https://github.com/Fansky123/FanAPI)
 
 **多渠道 AI API 聚合平台**
 
 统一接入多种 AI 服务，将接口代理、路由、计费和管理后台整合在一个平台中。
+
+由我开发，持续维护于 [YuanForge/MIDCODE](https://github.com/YuanForge/MIDCODE)；此个人仓库同步展示项目代码。
 
 - 支持 OpenAI、Claude、Gemini 协议与流式响应。
 - 覆盖对话以及图片、视频、音频等生成任务。
