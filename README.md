@@ -6,6 +6,8 @@
 
 用 Go 构建服务，用自动化连接工作流。
 
+[访问 MidCode →](https://midcode.cc)
+
 [MIDCODE / FanAPI](https://github.com/Fansky123/FanAPI) · [QQ Codex Worker](https://github.com/Fansky123/qqbot) · [全部公开项目](https://github.com/Fansky123?tab=repositories&type=public)
 
 </div>
@@ -19,6 +21,12 @@
 - **AI 服务集成**：多协议接入、渠道路由与计费管理。
 - **后端开发**：服务接口、异步任务与管理系统。
 - **工作流自动化**：连接聊天入口与开发任务，让执行过程可追踪。
+
+## MidCode
+
+[https://midcode.cc](https://midcode.cc)
+
+MidCode 是我的 AI 服务平台，提供统一的 AI 能力入口与相关工作台。欢迎直接访问站点体验。
 
 ## 代表项目
 
